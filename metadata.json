@@ -1,0 +1,5 @@
+{
+  "name": "Dev Portfolio & Productivity Hub",
+  "description": "A personal portfolio website for a software developer and educator, featuring project showcases, a blog, student resources, and a private productivity hub with to-do lists, notes, and bookmarks. Includes an AI-powered study buddy using the Gemini API.",
+  "requestFramePermissions": []
+}
